@@ -1,0 +1,17 @@
+
+NET "pos[0]" LOC = K14;
+NET "pos[1]" LOC = M13;
+NET "pos[2]" LOC = J12;
+NET "pos[3]" LOC = F12;
+NET "seg[0]" LOC = M12;
+NET "seg[1]" LOC = L13;
+NET "seg[2]" LOC = P12;
+NET "seg[3]" LOC = N11;
+NET "seg[4]" LOC = N14;
+NET "seg[5]" LOC = H12;
+NET "seg[6]" LOC = L14;
+NET "dp" LOC = N13;
+NET "onoff" LOC = P11;
+NET "reset" LOC = A7;
+
+NET "clk" LOC = B8;
